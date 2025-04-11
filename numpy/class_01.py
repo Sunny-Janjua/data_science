@@ -21,3 +21,12 @@ print("5D array:", e)
 # 1.2.1 Creating an array of zeros
 f = np.zeros((2, 3))
 print("Array of zeros:", f)
+
+# 1.2.2 Creating an array of ones
+g = np.ones((2, 3))
+print("Array of ones:", g)
+
+
+# 1.2.3 Creating an empty array
+h = np.empty((2, 3))
+print("Empty array:", h)
